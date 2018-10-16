@@ -88,7 +88,7 @@ For more information on syncing forks [read this article from Github](https://he
 ## FAQs
 
 - Who can contribute?
-
+-Deepak
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
 - Are you getting paid for this?
